@@ -82,7 +82,7 @@ git clone https://github.com/thomasjkobayashi/space-predictive-analytics.git
 cd space-predictive-analytics
 
 # Instale as dependências
-npm install
+npm install --legacy-peer-deps
 
 # Inicie o projeto
 npx expo start
