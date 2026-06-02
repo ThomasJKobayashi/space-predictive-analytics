@@ -10,11 +10,8 @@ O **Space Predictive Analytics** é uma plataforma mobile de análise preditiva 
 
 ## 👥 Equipe
 
-| Nome | RM |
-|------|----|
-| Nome Completo | RM000000 |
-| Nome Completo | RM000000 |
-| Nome Completo | RM000000 |
+| Thomas Joh Kobayashi | RM562758 |
+
 
 ## 📱 Telas do Aplicativo
 
@@ -79,7 +76,7 @@ O **Space Predictive Analytics** é uma plataforma mobile de análise preditiva 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/space-predictive-analytics.git
+git clone https://github.com/thomasjkobayashi/space-predictive-analytics.git
 
 # Acesse a pasta do projeto
 cd space-predictive-analytics
@@ -95,7 +92,7 @@ Escaneie o QR Code com o Expo Go para rodar no dispositivo físico.
 
 ## 🎬 Vídeo de Demonstração
 
-[Clique aqui para assistir à demonstração](https://youtube.com/...)
+[Clique aqui para assistir à demonstração](https://youtu.be/h7NaoWQwH-A?si=ZgJqv3joGD-zMtf_)
 
 ## 📄 Licença
 

@@ -4,7 +4,6 @@
     "slug": "space-predictive-analytics",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "scheme": "space-analytics",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -14,20 +13,10 @@
     "ios": {
       "supportsTablet": true
     },
-    "android": {
-      "adaptiveIcon": {
-        "backgroundColor": "#0B0D17"
-      }
-    },
+    "android": {},
     "plugins": [
       "expo-router",
-      [
-        "expo-notifications",
-        {
-          "icon": "./assets/icon.png",
-          "color": "#4A9EFF"
-        }
-      ]
+      "expo-notifications"
     ]
   }
 }
